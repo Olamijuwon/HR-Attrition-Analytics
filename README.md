@@ -11,6 +11,10 @@
 
 The scope of this project is how we can reduce employee's attrition through HR Analytics and also enhance employee's performance.
 By analysing various aspects of the data, we seek to identify trends, dada driven recommendations and gain a deeper understanding of the employee's performance.
+![HR-Attrition-1](https://github.com/Olamijuwon/HR-Attrition-Analytics/assets/107110652/d4dbc5fc-0d05-4cdc-9b3f-9ed575aa4d2a)
+![HR-Attrition-2](https://github.com/Olamijuwon/HR-Attrition-Analytics/assets/107110652/b68a8782-d5ff-4429-8f26-be3f13a5a494)
+![HR-Attrition-3](https://github.com/Olamijuwon/HR-Attrition-Analytics/assets/107110652/796875e4-1e4b-4aab-a444-a73cab645852)
+![HR-Attrition-4](https://github.com/Olamijuwon/HR-Attrition-Analytics/assets/107110652/3936f8ea-d724-4f01-a125-32f076423834)
 
 ### Meaning of Attrition is essential in this finding ?
 Attrition is the down-sizing of a firms employee pool by HR proffessionals, can also be the number of people who leave a company over a given point.
