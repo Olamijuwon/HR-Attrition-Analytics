@@ -11,7 +11,8 @@
 
 The scope of this project is how we can reduce employee's attrition through HR Analytics and also enhance employee's performance.
 By analysing various aspects of the data, we seek to identify trends, dada driven recommendations and gain a deeper understanding of the employee's performance.
-Meaning of Attrition is essential in this finding ?
+
+### Meaning of Attrition is essential in this finding ?
 ** Attrition is the down-sizing of a firms employee pool by HR proffessionals, can also be the number of people who leave a company over a given point.
 
 ## Tools.
