@@ -13,7 +13,7 @@ The scope of this project is how we can reduce employee's attrition through HR A
 By analysing various aspects of the data, we seek to identify trends, dada driven recommendations and gain a deeper understanding of the employee's performance.
 
 ### Meaning of Attrition is essential in this finding ?
-**Attrition is the down-sizing of a firms employee pool by HR proffessionals, can also be the number of people who leave a company over a given point.
+Attrition is the down-sizing of a firms employee pool by HR proffessionals, can also be the number of people who leave a company over a given point.
 
 ## Tools.
 Excel and Power BI    - Data cleaning was donee in power query
@@ -38,12 +38,20 @@ Initial data preparation phase;
 
 ## Exploratory Data Analysis
 
+Key Performance Indicators:
+- Total employee: 1470
+- Attrition count: 237
+- Avrrage years at company: 7
+- Average Income: $6.5k
+
 Key questions
-- Showing Total sales by budget, last month, last year , last target this was done using Dax.
-- Showing sales by continent.
-- What is the average Sales Amount by Employee?
-- Show sales representative that hits the highest target.
-- Sales target by order month and title.
+- Which gender has higher attrition rate ?
+- Which age bracket has higher attrition rate ?
+- Does proximity to work place affect attrition ?
+- Does being married or single affect attrition rate ?
+- Does being educational field  affect attrition rate ?
+- Does company position affect attrition rate ?
+
 
 ## Data Analysyis
 
