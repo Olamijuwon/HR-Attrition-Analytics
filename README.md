@@ -54,7 +54,6 @@ Key questions
 
 ## Result/Findings
 
-Insights Derived;
 1 - Attrition: Number of people who leaves a company.
 2 - Employee Gender Attrition: Males have higher attrition more than females.
 3 - Ages rage of 31-45 has higher attrition rate with this can be due to the fact that this is their peak stages at their work life, and they have more opportunities or are seeking for better options.
