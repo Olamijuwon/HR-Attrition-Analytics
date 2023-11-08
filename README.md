@@ -56,14 +56,7 @@ Key questions
 ## Data Analysyis
 
 
-DAX Measures used for the Nortwind Database
 
-
-``` DAX
-    Color = IF([Total Sales]>[Previous Month Sales], "Green", "Red")
-```
-
-``` DAX
     Color Sales/Target = IF([Total Sales] >= [Sales Target], "Green", "Red")
 ```
 
