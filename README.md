@@ -4,8 +4,8 @@
 - [Tools](#tools)
 - [ Data Cleaning/Preparation](#data-cleaning/preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysyis](#data-analysyis)
-- [ Result/Findings](#result/findings)
+- [Result/Findings](#result/findings)
+- [Conclusion](#conclusion)
 
 ## Project Overview
 
@@ -52,12 +52,23 @@ Key questions
 - Does being educational field  affect attrition rate ?
 - Does company position affect attrition rate ?
 
+## Result/Findings
 
-## Data Analysyis
+Insights Derived;
 
+1 - Attrition: Number of people who leaves a company.
+2 - Employee Gender Attrition: Males have higher attrition more than females.
+3 - Ages rage of 31-45 has higher attrition rate with this can be due to the fact that this is their peak stages at their work life, and they have more opportunities or are seeking for better options.
+4 - Those that have close proximity to their workplace tends to have higher level of attrition.
+5 - Married people have higher, with males having higher percentage. Divorced being the least.
+6 - In the Educational Field, Life sciences has the highest percentage followed by Medical (this could be due to the fact that theirs her many opportunities in the health sector 
+7 - Departmentally, Research and Development has more than 63 percent attrition, followed by Sales at 30% and the least being Human Resource (4%)
+8 - On monthly income Managers has the least Attrition count and they are the highest paid while we can see the likes of sales executives, laboratory Technicians, Research Scientists and sales representative with the lowest income had the highest attrition rate.
+(It can be said that their low salaries are one for them to look for a higher paying Job)
+9 - Entry level has higher attrition with a wide range followed by Junior and middle level. Executive and senior with the lowest attrition rates. (Reason can be the same as that of monthly income)
+10 - We can see high rates of dissatisfaction among customers as a happy employee is a happy customer.
 
+## Conclusion
 
-    Color Sales/Target = IF([Total Sales] >= [Sales Target], "Green", "Red")
-```
-
-``` DAX
+- The points stated should be addressed to encourage a positive and productive work environment.
+- It can been seen that those with low income but high performance rate tends to have high attrition rate. Low monthly income can also be a contributing factor.
